@@ -1,6 +1,6 @@
-MACRO tt_um_algofoogle_vga_matrix_dac
+MACRO tt_um_jay13ch_vga_matrix_dac
   CLASS BLOCK ;
-  FOREIGN tt_um_algofoogle_vga_matrix_dac ;
+  FOREIGN tt_um_jay13ch_vga_matrix_dac ;
   ORIGIN 0.000 0.000 ;
   SIZE 161.000 BY 225.760 ;
   PIN clk
@@ -581,8 +581,9 @@ MACRO tt_um_algofoogle_vga_matrix_dac
         RECT 133.790 1.000 151.410 1.400 ;
         RECT 153.110 1.000 159.085 1.400 ;
   END
-END tt_um_algofoogle_vga_matrix_dac
+END tt_um_jay13ch_vga_matrix_dac
 END LIBRARY
+
 
 
 
